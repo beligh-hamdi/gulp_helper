@@ -1,0 +1,16 @@
+{
+  "name": "gulp_helper",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "local-web-server": "~0.5.24",
+    "browser-sync": "~2.10.0",
+    "gulp-livereload": "~3.8.1"
+  },
+  "author": "Beligh HAMDI",
+  "license": "BSD-2-Clause"
+}
